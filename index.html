@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html >
+<head>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/lighttable.png" type="image/x-icon">
+  <meta http-equiv="Content-Type" charset="utf-8" />
+  <title>Home</title>
+  <link rel="stylesheet" href="public/assets/tether/tether.min.css">
+  <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="public/assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="public/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="public/assets/theme/css/style.css">
+  <link rel="stylesheet" href="public/assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="public/assets/style.css" type="text/css">
+  <!--link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700"-->
+
+  
+  
+
+  <!-- 
+  <div class="pos-f-t">
+    <div class="collapse" id="navbarToggleExternalContent">
+      <div class="bg-dark p-4">
+        <h4 class="text-white">Collapsed content</h4>
+        <span class="text-muted">Toggleable via the navbar brand.</span>
+      </div>
+    </div>
+    <nav class="navbar navbar-dark bg-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </nav>
+  </div>
+  -->
+  
+  
+</head>
+<body>
+<div id="main">
+  <div class="header-nightsky">
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <a class="navbar-brand" href="#">Salzator</a>
+        </div>
+    </nav>
+	
+    <div class="hero container">
+        <h1>Location de salle pour evenment</h1>
+        <p>Reserver vos salles des maintenants</p>
+        <div>
+          <div class="form-inline ml-5" >
+			<div class="form-group">
+				<input type="text" class="form-control" id="nom_salle" value="" placeholder="nom du salle">
+			</div>
+            <div class="form-group">
+				<select class="browser-default custom-select mb-2 m-2" name="lieu" id="pays">
+				   <option value="" disabled>Pays</option>
+				   <option>Madagascar</option>
+				   <option>France</option>
+				   <option>Africa</option>
+				   <option>USA</option>
+				   <option>Tout</option>
+				</select>
+            </div>
+
+              <div class="form-group">
+				<select class="browser-default custom-select mb-2 m-2" name="effectif" id="effectif">
+				   <option value="" disabled>Effectif</option>
+				   <option value="200">Moins de 200</option>
+				   <option value="500">500 et moins</option>
+				   <option value="501">Plus de 500</option>
+				   <option value="1000">1000 et Plus</option>
+				   <option value="0">Tout</option>
+				</select>
+              </div>
+              <div class="form-group">
+				<select class="browser-default custom-select mb-2 m-2" name="evenement" id="evenement">
+				   <option value="" disabled>Type d'evenemet</option>
+				   <option>Mariage</option>
+				   <option>Reception</option>
+				   <option>Seminaire</option>
+				   <option>Anniversaire</option>
+				</select>
+              </div>
+            <button class="btn btn-secondary mb-2 ml-0" onclick="rechercher()" href="#">Rechercher</button>
+          </div>
+        </div>
+    </div>
+</div>
+  <section class="mbr-section form1 cid-rqqoZ4Xit2" id="form1">
+
+    <div class="container">
+       <div class="table-responsive">
+			<table class="table table-bordered" id="tableau_affichage">
+				<thead>
+				<tr>
+					<th>Pays</th>
+					<th>EFFECTIF</th>
+					<th>NOM_ESPACE</th>
+				</tr> 
+				</thead>
+				<tbody>
+				<tr>
+					<td>Vide</td>
+					<td>Vide</td>
+					<td>Vide</td>
+				</tr>
+				</tbody>
+			</table>
+        </div>
+		
+    </div>
+</section>
+
+
+
+  <section class="mbr-section form1 cid-rqqoZ4Xit2" id="form1-q">
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-12 col-lg-8">
+                <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-2">
+                    CONTACT</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-5">
+                    N'hesitez pas à nous envoyer un message.</h3>
+            </div>
+        </div>
+		
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="media-container-column col-lg-8" data-form-type="formoid">
+                    <div data-form-alert="" hidden="">
+                        VOtre message est bien envoyé !
+                    </div>
+            
+                    <form class="mbr-form" action="" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="e+63Hk5qn8XsD47Z9lx9XmdNYgEyEEbxE8r9t0ac0Va1V43udyUfsAcI3BXBXPx3mqOUtsFka672DZnOj/ZIvskgi9jIGXFa002E1hOVnFXKiWzpD8bhbMTKvI16fnbc">
+                        <div class="row row-sm-offset">
+                            <div class="col-md-4 multi-horizontal" data-for="name">
+                                <div class="form-group">
+                                    <label class="form-control-label mbr-fonts-style display-7" for="name-form1-q">Nom</label>
+                                    <input type="text" class="form-control" name="name" data-form-field="Name" required="" id="name-form1-q">
+                                </div>
+                            </div>
+                            <div class="col-md-4 multi-horizontal" data-for="email">
+                                <div class="form-group">
+                                    <label class="form-control-label mbr-fonts-style display-7" for="email-form1-q">Email</label>
+                                    <input type="email" class="form-control" name="email" data-form-field="Email" required="" id="email-form1-q">
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div class="form-group" data-for="message">
+                            <label class="form-control-label mbr-fonts-style display-7" for="message-form1-q">Message</label>
+                            <textarea type="text" class="form-control" name="message" rows="7" data-form-field="Message" id="message-form1-q"></textarea>
+                        </div>
+            
+                        <span class="input-group-btn"><button href="" type="submit" class="btn btn-primary btn-form display-4">ENVOYER</button></span>
+                    </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="engine">
+
+</section>
+
+<section once="" class="cid-rqqp33oHGb" id="footer7-r">
+
+    <div class="container">
+	
+        <div class="media-container-row align-center mbr-white">
+            
+            <div class="row social-row">
+                <div class="social-list align-right pb-2">
+                    
+                <div class="soc-item">
+                       
+                    </div><div class="soc-item">
+                        <a href="https://www.facebook.com" target="_blank">
+                            <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
+                        </a>
+                    </div><div class="soc-item">
+                        <a href="https://www.youtube.com" target="_blank">
+                            <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
+                        </a>
+                    </div><div class="soc-item">
+                        <a href="https://instagram.com/jonasandrox" target="_blank">
+                            <span class="socicon-instagram socicon mbr-iconfont mbr-iconfont-social"></span>
+                        </a>
+                    </div><div class="soc-item">
+                       
+                    </div><div class="soc-item">
+                       
+                    </div></div>
+            </div>
+          
+        </div>
+    </div>
+</section>
+</div>
+
+  <script src="public/assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="public/assets/popper/popper.min.js"></script>
+  <script src="public/assets/tether/tether.min.js"></script>
+  <script src="public/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="public/assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="public/assets/cookies-alert-plugin/cookies-alert-core.js"></script>
+  <script src="public/assets/cookies-alert-plugin/cookies-alert-script.js"></script>
+  <script src="public/assets/theme/js/script.js"></script>
+  <script src="public/assets/formoid/formoid.min.js"></script>
+ <script>
+	function getXml() {
+	//Creation requete XML
+	  var Connect = new XMLHttpRequest();
+	  Connect.open("GET", "docxml.xml", false);
+	  Connect.setRequestHeader("Content-Type", "text/xml");
+	  Connect.send();
+	  var xml = Connect.responseXML;
+	  return xml
+	}
+	function htmlReq(ID){
+	//Recuperation page HTML avec ajax
+		var request = new XMLHttpRequest();
+		request.open('GET', 'pages/visite.html', false);
+		request.send();
+		if (request.status === 200) {
+			var parser = new DOMParser();
+			var page = parser.parseFromString(request.responseText,"text/html");
+			var content = page.getElementById("main").innerHTML;
+			document.getElementById('main').innerHTML = content;
+			visiter(ID)
+        }
+	
+	}
+	
+	
+	function rechercher() {
+		function affiche(){
+			table += "<tr><td>" +
+			x[i].getElementsByTagName("COUNTRY")[0].childNodes[0].nodeValue +
+			"</td><td>" +
+			x[i].getElementsByTagName("EFFECTIF")[0].childNodes[0].nodeValue +
+			"</td><td>" +
+			x[i].getElementsByTagName("NOM_ESPACE")[0].childNodes[0].nodeValue +
+			"</td><td>" +
+			x[i].getElementsByTagName("DISPO")[0].childNodes[0].nodeValue +
+			"</td><td class='tabutton'><boutton class='mini btn btn-secondary' onclick='htmlReq("+x[i].getElementsByTagName("ID")[0].childNodes[0].nodeValue+")'>Visiter</boutton></td></tr>";
+			document.getElementById("tableau_affichage").innerHTML = table;
+			boite+=1
+		}
+		function filtreEffectif(){
+			if(effectif<=0){
+				affiche()
+			}
+			else if(effectif<=500){
+				if(parseInt(x[i].getElementsByTagName("EFFECTIF")[0].childNodes[0].nodeValue)<=effectif){
+					affiche()
+				}
+			}
+			else{
+				if(parseInt(x[i].getElementsByTagName("EFFECTIF")[0].childNodes[0].nodeValue)>=effectif){
+					affiche()
+				}
+			}
+		}
+		function filtrePays(){
+			if(x[i].getElementsByTagName("COUNTRY")[0].childNodes[0].nodeValue==pays){
+				filtreEffectif()
+			}
+			else if(pays=="Tout"){
+				filtreEffectif()
+			}
+		}
+	
+		var i;
+		var boite=0;
+		var effectif=parseInt(document.getElementById("effectif").value)
+		var pays=document.getElementById("pays").value
+		var titre = document.getElementById("nom_salle").value
+		var regex = new RegExp(titre, 'i')
+		var xmlDoc = getXml()
+		var table="<thead><tr><th>Pays</th><th>EFFECTIF</th><th>NOM_ESPACE</th><th>DISPONIBILITE</th></tr></thead><tbody>";
+		var x = xmlDoc.getElementsByTagName("HOTEL");
+		for (i = 0; i <x.length; i++) {
+			if(titre!=""){
+				if(x[i].getElementsByTagName("NOM_ESPACE")[0].childNodes[0].nodeValue.search(regex)>=0){
+					filtrePays()
+				}
+			}
+			else{
+				filtrePays()
+			}
+			if(i>=x.length){
+				document.getElementById("tableau_affichage").innerHTML = table+"</tbody>"
+			}
+		}
+		if(boite<=0){
+			document.getElementById("tableau_affichage").innerHTML = "<tr><th>Pays</th><th>NOM_ESPACE</th><th>EFFECTIF</th><th>DISPONIBILITE</th></tr> <tr><th>Vide</th><th>Vide</th><th>Vide</th><th>Vide</th></tr>";
+		}
+	}
+
+	function visiter(ID){
+		var xmlDoc = getXml()
+		id=ID-1
+		var x = xmlDoc.getElementsByTagName("HOTEL");
+		var data = "<h4>Presentation de la salle</h4><p>" +
+		x[id].getElementsByTagName("PRESENT")[0].childNodes[0].nodeValue +
+		"</p><h4>Prestation</h4><p>" +
+		x[id].getElementsByTagName("PREST")[0].childNodes[0].nodeValue +
+		"</p><h4>Acc&egrave;s</h4><pre>" + x[id].getElementsByTagName("ACCES")[0].childNodes[0].nodeValue +
+		"</pre><h4>Tarif</h4><p>" +
+		x[id].getElementsByTagName("TARIF")[0].childNodes[0].nodeValue +
+		"$ </p><div class='table-responsive'><table class='table table-bordered'><thead><tr><th>Pays</th><th>EFFECTIF</th><th>NOM_ESPACE</th><th>DISPONIBILITE</th></tr></thead><tbody><tr><td>"+
+		x[id].getElementsByTagName("COUNTRY")[0].childNodes[0].nodeValue +
+		"</td><td>" +
+		x[id].getElementsByTagName("EFFECTIF")[0].childNodes[0].nodeValue +
+		"</td><td>" +
+		x[id].getElementsByTagName("NOM_ESPACE")[0].childNodes[0].nodeValue +
+		"</td><td id='dispo'> "+
+		x[id].getElementsByTagName("DISPO")[0].childNodes[0].nodeValue +
+		"</td></tr></tbody></table></div><div id='reservation'><button class='btn btn-secondary p-2' onclick='reserver("+x[id].getElementsByTagName("ID")[0].childNodes[0].nodeValue+")'>Reserver la salle <h2 class='ml-2'><span class='badge badge-warning'>"+ x[id].getElementsByTagName("TARIF")[0].childNodes[0].nodeValue+" $</span></h2></button></div>";
+		document.getElementById("page_affichage").innerHTML = data;
+	}
+	function reserver(ID){
+		var xmlDoc = getXml()
+		var x = xmlDoc.getElementsByTagName("HOTEL");
+		id=ID-1
+		x[id].getElementsByTagName("DISPO")[0].childNodes[0].nodeValue="INDISPO";
+		var td = document.getElementById("dispo")
+		td.innerHTML = "INDISPO";
+		document.getElementById("reservation").innerHTML = "<div class='alert alert-success'><strong>Salle reserver</strong></div>";
+	}
+  </script>
+
+<input name="cookieData" type="hidden" data-cookie-text="We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.">
+  </body>
+</html>

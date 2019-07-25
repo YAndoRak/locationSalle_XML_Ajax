@@ -1,0 +1,1136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <HOTEL>
+	<ID>1</ID>
+    <TITLE>Empire Burlesque</TITLE>
+    <NOM_ESPACE>Bloc</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1985</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>3000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>2</ID>
+    <TITLE>Hide your heart</TITLE>
+    <NOM_ESPACE>Dusty depot</NOM_ESPACE>
+    <COUNTRY>Africa</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1988</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>350</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>3</ID>
+    <TITLE>Greatest Hits</TITLE>
+    <NOM_ESPACE>Neo Tilted</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <EFFECTIF>90</EFFECTIF>
+    <YEAR>1982</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>5000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>4</ID>
+    <TITLE>Hide your heart</TITLE>
+    <NOM_ESPACE>Water Treatment</NOM_ESPACE>
+    <COUNTRY>Macedoine</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1988</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>300</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>5</ID>
+    <TITLE>Still got the blues</TITLE>
+    <NOM_ESPACE>Gary Moore</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1990</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>1000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>6</ID>
+    <TITLE>Eros</TITLE>
+    <NOM_ESPACE>Paradise Palace</NOM_ESPACE>
+    <COUNTRY>Africa</COUNTRY>
+    <COMPANY>BMG</COMPANY>
+    <EFFECTIF>900</EFFECTIF>
+    <YEAR>1997</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>750</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+  	<ID>7</ID>
+    <TITLE>One night only</TITLE>
+    <NOM_ESPACE>Lonely Lodge</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1998</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>400</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>8</ID>
+    <TITLE>Sylvias Mother</TITLE>
+    <NOM_ESPACE>Tilted Tower</NOM_ESPACE>
+    <COUNTRY>Madagascar</COUNTRY>
+    <COMPANY>CBS</COMPANY>
+    <EFFECTIF>800</EFFECTIF>
+    <YEAR>1973</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>4000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>9</ID>
+    <TITLE>Maggie May</TITLE>
+    <NOM_ESPACE>Fatal Field</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Pickwick</COMPANY>
+    <EFFECTIF>80</EFFECTIF>
+    <YEAR>1990</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>75</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>10</ID>
+    <TITLE>Romanza</TITLE>
+    <NOM_ESPACE>Sunny Step</NOM_ESPACE>
+    <COUNTRY>France</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1996</YEAR><PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>390</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>11</ID>
+    <TITLE>When a man loves a woman</TITLE>
+    <NOM_ESPACE>Loot Lake</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Atlantic</COMPANY>
+    <EFFECTIF>400</EFFECTIF>
+    <YEAR>1987</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>175</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>11</ID>
+    <TITLE>Black angel</TITLE>
+    <NOM_ESPACE>Annarchie Acres</NOM_ESPACE>
+    <COUNTRY>France</COUNTRY>
+    <COMPANY>Mega</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1995</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>200</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>12</ID>
+    <TITLE>1999 Grammy Nominees</TITLE>
+    <NOM_ESPACE>Moisty Mires</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Grammy</COMPANY>
+    <EFFECTIF>300</EFFECTIF>
+    <YEAR>1999</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>950</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>13</ID>
+    <TITLE>For the good times</TITLE>
+    <NOM_ESPACE>Junk Junction</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Mucik Master</COMPANY>
+    <EFFECTIF>1000</EFFECTIF>
+    <YEAR>1995</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>900</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>14</ID>
+    <TITLE>Big Willie style</TITLE>
+    <NOM_ESPACE>Lucky Landing</NOM_ESPACE>
+    <COUNTRY>Madagascar</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <EFFECTIF>1000</EFFECTIF>
+    <YEAR>1997</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>800</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>15</ID>
+    <TITLE>Tupelo Honey</TITLE>
+    <NOM_ESPACE>Pecado</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <EFFECTIF>90</EFFECTIF>
+    <YEAR>1971</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>900</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>16</ID>
+    <TITLE>Soulsville</TITLE>
+    <NOM_ESPACE>Chumacera</NOM_ESPACE>
+    <COUNTRY>Norway</COUNTRY>
+    <COMPANY>WEA</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1996</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>960</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>17</ID>
+    <TITLE>The very best of</TITLE>
+    <NOM_ESPACE>Haunted Hill</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Island</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1990</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>200</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>18</ID>
+    <TITLE>Stop</TITLE>
+    <NOM_ESPACE>Greasy Groove</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>A and M</COMPANY>
+    <EFFECTIF>1000</EFFECTIF>
+    <YEAR>1988</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>2000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>19</ID>
+    <TITLE>Bridge of Spies</TITLE>
+    <NOM_ESPACE>Bootcamp</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Siren</COMPANY>
+    <EFFECTIF>500</EFFECTIF>
+    <YEAR>1987</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>600</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>20</ID>
+    <TITLE>Private Dancer</TITLE>
+    <NOM_ESPACE>Powergrid</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>Capitol</COMPANY>
+    <EFFECTIF>300</EFFECTIF>
+    <YEAR>1983</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>300</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>21</ID>
+    <TITLE>Midt om natten</TITLE>
+    <NOM_ESPACE>Polar Peack</NOM_ESPACE>
+    <COUNTRY>France</COUNTRY>
+    <COMPANY>Medley</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1983</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>499</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>22</ID>
+    <TITLE>Pavarotti Gala Concert</TITLE>
+    <NOM_ESPACE>Dusty Divot</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>DECCA</COMPANY>
+    <EFFECTIF>200</EFFECTIF>
+    <YEAR>1991</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>500</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>23</ID>
+    <TITLE>The dock of the bay</TITLE>
+    <NOM_ESPACE>Salty spring</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Stax Records</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1968</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>500</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>24</ID>
+    <TITLE>Picture book</TITLE>
+    <NOM_ESPACE>Pirate paradise</NOM_ESPACE>
+    <COUNTRY>France</COUNTRY>
+    <COMPANY>Elektra</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1985</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>1000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>25</ID>
+    <TITLE>Red</TITLE>
+    <NOM_ESPACE>Paradise palm</NOM_ESPACE>
+    <COUNTRY>Indes</COUNTRY>
+    <COMPANY>London</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1987</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>300</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+  <HOTEL>
+	<ID>26</ID>
+    <TITLE>Unchain my heart</TITLE>
+    <NOM_ESPACE>Happy Hamlet</NOM_ESPACE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>EMI</COMPANY>
+    <EFFECTIF>100</EFFECTIF>
+    <YEAR>1987</YEAR>
+	<PRESENT>Découvrez nos nouveaux espaces « Ulysse Space » situés à Fontenay-Trésigny 
+	(77)pour organiser vos événements privés ou professionnels. Nous vous proposons 
+	2 salles à la location conçues spécialement pour vos réceptions de respectivement 
+	de 510 et 300 m². Des espaces clairs et neutres entièrement personnalisables. Nous 
+	imaginons ensemble et organisons pour vous les aménagements et prestations qui feront 
+	la réussite de votre événement.</PRESENT>
+	<PREST>
+		Un espace équipé et facile d’utilisation que vous saurez vous appropriez. Une équipe à votre service.
+		Nos prestations
+		- Régie sono et lumière
+		- Climatisation
+		- Accès handicapés
+		- Lumière du jour
+		- Parking privé
+		- Cuisine attenante équipée
+		- Mobilier de réception (tables, chaises, vestiaire)
+		- Rétroprojecteurs, écrans
+		- Traiteur Maison
+		- Location de matériel, décoration, fleuristes, personnel de service
+		Autres prestations sur devis, nous consulter.
+	</PREST>
+	<ACCES>
+		Nos espaces de réception, dotés de parking privés,
+		sont situés à quelques distances :
+		20 km de la Francilienne (A104)
+		45 km de Paris
+		60 km de Roissy Charles-de-Gaulle
+		40 km de Orly
+		20 km de Disney Ressort Paris
+		45 mn de Paris via le RER E à Tournan-en-Brie
+	</ACCES>
+	<TARIF>2000</TARIF>
+	<DISPO>DISPONIBLE</DISPO>
+  </HOTEL>
+</CATALOG>

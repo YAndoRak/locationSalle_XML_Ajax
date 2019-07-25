@@ -1,0 +1,14 @@
+#tableau_affichage th{
+	margin:0;
+	padding:5%;
+}
+#tableau_affichage{
+width:100%;
+height:100%;
+}
+.mini{
+	padding:5%;
+}
+.tabutton{
+	width:20%;
+}
